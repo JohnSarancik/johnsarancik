@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on Lego Set Data Analysis
+- 🔭 I’m currently working on a speed tuning guide for Honkai Star Rail
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on more data science projects
 - 🤔 I’m looking for help with AWS
